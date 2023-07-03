@@ -23,7 +23,8 @@ I have proficiency in the following programming languages:
 ### Interests in Data Security 🔒
 
 I also have an interest in data security and encryption, which are crucial for handling sensitive data, especially in medical applications.
-### Recent Publications
+
+### Recent Publications (last 4)
 
 | Titel | GitHub-Link | Publikations-Link |
 |-------|-------------|-------------------|
