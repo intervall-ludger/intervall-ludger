@@ -25,10 +25,12 @@ I have proficiency in the following programming languages:
 I also have an interest in data security and encryption, which are crucial for handling sensitive data, especially in medical applications.
 ### Recent Publications
 
-* "“shortCardiac” — An open-source framework for fast and standardized assessment of cardiac function." [[GitHub](https://github.com/MPR-UKD/shortCardiac)] [[Publication](https://www.softxjournal.com/article/S2352-7110(23)00149-8/fulltext)]
-* "Adaptive IoU Thresholding for Improving Small Object Detection: A Proof-of-Concept Study of Hand Erosions Classification of Patients with Rheumatic Arthritis on X-ray Images" [[GitHub](https://github.com/MPR-UKD/Adaptive-IoU-RetinaNet)] [[Publication](https://www.mdpi.com/2075-4418/13/1/104)]
-* "Lorentzian-Corrected Apparent Exchange-Dependent Relaxation (LAREX) Ω-Plot Analysis—An Adaptation for qCEST in a Multi-Pool System: Comprehensive In Silico, In Situ, and In Vivo Studies" [[Publication](https://www.mdpi.com/1422-0067/23/13/6920)]
-* "Deep Learning-Based Post-Processing of Real-Time MRI to Assess and Quantify Dynamic Wrist Movement in Health and Disease" [[Publication](https://www.mdpi.com/2075-4418/11/6/1077)]
+| Titel | GitHub-Link | Publikations-Link |
+|-------|-------------|-------------------|
+| “shortCardiac” — An open-source framework for fast and standardized assessment of cardiac function. | [GitHub](https://github.com/MPR-UKD/shortCardiac) | [Publication](https://www.softxjournal.com/article/S2352-7110(23)00149-8/fulltext) |
+| Adaptive IoU Thresholding for Improving Small Object Detection: A Proof-of-Concept Study of Hand Erosions Classification of Patients with Rheumatic Arthritis on X-ray Images | [GitHub](https://github.com/MPR-UKD/Adaptive-IoU-RetinaNet) | [Publication](https://www.mdpi.com/2075-4418/13/1/104) |
+| Lorentzian-Corrected Apparent Exchange-Dependent Relaxation (LAREX) Ω-Plot Analysis—An Adaptation for qCEST in a Multi-Pool System: Comprehensive In Silico, In Situ, and In Vivo Studies | | [Publication](https://www.mdpi.com/1422-0067/23/13/6920) |
+| Deep Learning-Based Post-Processing of Real-Time MRI to Assess and Quantify Dynamic Wrist Movement in Health and Disease | | [Publication](https://www.mdpi.com/2075-4418/11/6/1077) |
 
 ## Work Experience
 * PhD Student at Heinrich-Heine-Universität Düsseldorf (Dec 2020 - Present)
