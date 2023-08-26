@@ -18,7 +18,7 @@ I have proficiency in the following programming languages:
 
 - Python, R (Advanced)
 - Java, JavaScript (Intermediate)
-- C++ (Basic)
+- C++, Rust (Basic)
 
 ### Interests in Data Security 🔒
 
