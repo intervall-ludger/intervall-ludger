@@ -17,8 +17,8 @@ I have extensive knowledge in statistics, with a particular focus on clinical st
 I have proficiency in the following programming languages:
 
 - Python, R (Advanced)
-- Java, JavaScript (Intermediate)
-- C++, Rust (Basic)
+- Java, JavaScript, Rust (Intermediate)
+- C++ (Basic)
 
 ### Interests in Data Security 🔒
 
